@@ -1,5 +1,5 @@
 {
-  "name": "react-server-rendering-example",
+  "name": "react-server-rendering",
   "version": "0.0.1",
   "description": "Quick example of server rendering with React",
   "main": "index.js",
